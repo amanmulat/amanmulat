@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Amanuael
 
-<!--
-**amanmulat/amanmulat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+Building scalable applications, enterprise systems, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+`React` `Next.js` `Node.js` `Laravel` `Python` `FastAPI` `PostgreSQL` `MySQL` `Redis` `Docker`
+
+### Focus
+
+- Full-Stack & Backend Engineering
+- System Architecture & APIs
+- AI Integration & Automation
